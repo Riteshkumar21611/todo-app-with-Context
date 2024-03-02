@@ -1,0 +1,11 @@
+input {
+  width: 100%;
+}
+
+.items {
+  text-align: left;
+}
+
+.add {
+  min-width: 82px;
+}
